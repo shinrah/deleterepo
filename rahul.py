@@ -1,4 +1,5 @@
 a = 10
 print(10)
+<<<<<<< HEAD
 print(type(a))
-print("code from main branch")
+print("code from FEATURE branch")
